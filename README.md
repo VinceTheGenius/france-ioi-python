@@ -1,6 +1,6 @@
 # France IOI Python
 
-Voici tout les exercices obligatoires des niveaux Python de France IOI :)
+Voici tout les exercices __obligatoires__ des niveaux Python de France IOI :)
 
 ## Contributing
 Merci à Internet
